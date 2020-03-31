@@ -1,16 +1,21 @@
-# moviesapp
+# Movies App
 
-A new Flutter application.
+A new Flutter application containing details about various movies and tv series with an amazing user interface.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/36985639/78038880-003f0580-738b-11ea-904c-b667858f9053.jpg" width="250" height="400" hspace="40"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/36985639/78039062-3bd9cf80-738b-11ea-9110-60d09a1b52b3.jpg" width="250" height="400" hspace="40"/>
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/36985639/78039109-50b66300-738b-11ea-8eb7-d7a182934cc0.jpg" width="250" height="400" hspace="40"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/36985639/78039173-688de700-738b-11ea-9a8a-858d5d94fe79.jpg" width="250" height="400" hspace="40"/>
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/36985639/78039222-793e5d00-738b-11ea-8aa0-70b244ada8ac.jpg" width="250" height="400" hspace="40"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/36985639/78039269-89563c80-738b-11ea-8589-430460920aa8.jpg" width="250" height="400" hspace="40"/>
+</div>
